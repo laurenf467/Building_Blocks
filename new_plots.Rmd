@@ -1,0 +1,9 @@
+---
+title: "new plots"
+output: html_document
+---
+
+```{r}
+x = rnorm(1001)
+```
+
